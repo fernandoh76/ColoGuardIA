@@ -1,0 +1,10 @@
+name: shinyappproject
+title:
+username: fernandoh76ve
+account: fernandoh76ve
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17518392
+bundleId: 12136500
+url: https://fernandoh76ve.shinyapps.io/shinyappproject/
+version: 1
